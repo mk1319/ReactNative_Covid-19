@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Covid-19",
+    "slug": "Covid-19",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.Mu21.Mk1921",
+      "buildNumber": "1.0.0"
+    },"android": {
+      "package": "com.Mu21.Mk1921",
+      "versionCode": 1
+    }
+  }
+}
